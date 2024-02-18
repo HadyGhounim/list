@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "image":"images/بطاطس-160-768x512.png",
+    "title": "cheese Burger",
+    "price": "100"
+  },
+  {
+    "id": "2",
+    "image":"images/بطاطس-160-768x512.png",
+    "title": "cheese Burger",
+    "price": "100"
+  },
+  {
+    "id": "3",
+    "image":"images/بطاطس-160-768x512.png",
+    "title": "cheese Burger",
+    "price": "100"
+  },
+  {
+    "id": "4",
+    "image":"images/بطاطس-160-768x512.png",
+    "title": "cheese Burger",
+    "price": "100"
+  }
+]
